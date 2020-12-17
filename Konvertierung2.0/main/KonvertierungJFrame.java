@@ -133,12 +133,8 @@ public class KonvertierungJFrame extends JFrame {
         Octalsystem1 = new JRadioButton(makeAsLongAs(MIN_NAME_LENGTH, "Octalsystem"), false);
         addRadioButtonToGroup(c, Octalsystem1, auswahl1, 3, 0, true);
 
-        Zehnersystem1 = new JRadioButton("Zehnersystem         ", false);
-        //TODO: clean up
-        c.gridx = 0;
-        c.gridy = 4;
-        auswahl1.add(Zehnersystem1);
-        auswahlpanel1.add(Zehnersystem1, c);
+        Zehnersystem1 = new JRadioButton(makeAsLongAs(MIN_NAME_LENGTH, "Zehnersystem"), false);
+        addRadioButtonToGroup(c, Zehnersystem1, auswahl1, 4, 0, true);
 
         Hexadezimalsystem1 = new JRadioButton("Hexadezimalsystem", false);
         c.gridx = 0;
