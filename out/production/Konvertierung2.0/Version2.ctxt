@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=main.KonvertierungJFrame
+comment0.text=\n\ Konvertierung\ von\ einem\ Zahlensystem\ in\ ein\ Anderes.\n\ Fliesskommazahlen\ werden\ bei\ Angabe\ eines\ Kommas\ (.)\ auch\ umgewandelt\!\n\ \nK.Chen\n1.0\n\n\ Um\ das\ Programm\ aus\ dem\ Terminal\ zu\ starten\:\ \n\ java\ -cp\ ./+libs/flanagan.jar\:.\ Satellitenzeit\n
+comment1.params=
+comment1.target=main.KonvertierungJFrame()
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
